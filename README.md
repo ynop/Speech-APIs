@@ -20,7 +20,7 @@ List of online speech-to-text, text-to-speech, translation APIs.
 | API  | Interfaces, Client Libraries | Pricing
 | ------------- | ------------- | ------------- | 
 | Microsoft Bing   | REST  | Monthly, 1'000'000 characters free, $10 for 1'000'000 characters |
-| IBM Watson | REST, Android, iOS,  Java, Python  | 1'000'000 characters free, 0.02$ per additional 1000 characters |
+| IBM Watson | REST, Android, iOS,  Java, Python  | Monthly, 1'000'000 characters free, 0.02$ per additional 1000 characters |
 | Nuance | REST, Android, Java | Monthly, 20'000 transactions free / App, $.008 per additional transation (includes SST) |
 
 ## Translation
