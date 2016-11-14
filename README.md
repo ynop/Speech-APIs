@@ -26,7 +26,7 @@ List of online speech-to-text, text-to-speech, translation APIs.
 ## Translation
 
 | API  | Interfaces, Client Libraries | Pricing
-| ------------- | ------------- | ------------- | 
-| Google Cloud  | REST, gRPC, Java, Python   | 20$ per million characters |
-| Microsoft Bing   | REST  | Monthly, 2'000'000 characters free, $10 for 1'000'000 characters |
-| IBM Watson | REST, Android, iOS,  Java, Python  | 250'000 characters free, 0.02$ per additional 1000 characters |
+| ------------- | ------------- | ------------- | ------------- | 
+| Google Cloud  | REST, gRPC, Java, Python   | 20$ per million characters | 90+ | 
+| Microsoft Bing   | REST  | Monthly, 2'000'000 characters free, $10 for 1'000'000 characters | 
+| IBM Watson | REST, Android, iOS,  Java, Python  | 250'000 characters free, 0.02$ per additional 1000 characters | 
